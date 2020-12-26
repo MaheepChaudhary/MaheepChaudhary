@@ -1,7 +1,7 @@
 
 
 <!--## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)-->
-<h2 align="center">Hello there! My name is Maheep Chaudhary. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/maheepchaudhary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 ---
 
-### My Digital Garden 🌱
+## &#x270d; My Digital Garden 🌱
 
 I'm currently a Machine Learning Researcher at IIT Indore under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I'm working on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). I am also planning to represent Govt. of India in *Inter-ASEAN comptetion* for *Face Detection System for Criminals* which I cleared through attaining the *first position in the World's Biggest Hackathon, i.e. Smart India Hackathon*. One of my research papers on *Recommendation Engine* is under review in the [Information Sciences](https://www.journals.elsevier.com/information-sciences) journal. Also in my free time, I like to write the blog posts,most of which you will find on my [medium](https://medium.com/@chaudhary.maheep28) account.
 
@@ -59,10 +59,27 @@ I'm currently a Machine Learning Researcher at IIT Indore under the guidance of 
 - [Facebook](https://www.facebook.com/maheep.chaudhary/) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheepChaudhary&layout=compact)](https://github.com/MaheepChaudhary/github-readme-stats)
-![MaheepChaudhary's github stats](https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&theme=radical)
+
+## &#x1f4c8; Github Stats
+
+<a href="https://github.com/MaheepChaudhary/MaheepChaudhary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheepChaudhary&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/MaheepChaudhary/MaheepChaudhary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MaheepChaudhary/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MaheepChaudhary/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 <!--
 ## Stargazers
 [![Stargazers repo roster for @MaheepChaudhary/MaheepChaudhary](https://reporoster.com/stars/MaheepChaudhary/MaheepChaudhary)](https://github.com/MaheepChaudhary/MaheepChaudhary/stargazers)
 -->
+---
