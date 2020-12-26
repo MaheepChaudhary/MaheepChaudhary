@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MaheepChaudhary/<OWNER>/<OWNER>/readme_header.png "Header")](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHelloWorld.svg&psig=AOvVaw3LBPzrNgFNOTynt4X4Sr75&ust=1609077108042000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjT_cHl6-0CFQAAAAAdAAAAABAD)
+[![Header](https://raw.githubusercontent.com/MaheepChaudhary/<main>/<images>/1200px-HelloWorld.svg.png "Header")]
 <!--
 
 
