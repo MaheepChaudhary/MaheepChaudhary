@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+<!--
+
 
 **MaheepChaudhary/MaheepChaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![MaheepChaudhary github stats](https://github-readme-stats.vercel.app/api?username=MaheepChaudhary)](https://github.com/MaheepChaudhary/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
