@@ -16,27 +16,25 @@
 <!--<p align="center">I am a 3rd Year undergraduate student at [Bundelkhand Institute of Technology, Jhansi]. I aspire to be a valuable resource in society; help develop software that is going to meet individual client needs. Being a team player with strong analytical and problem solving skills I come up with creative solutions for complex problems. I am an active blogger and passionate about inclusion of women in computing. Being pragmatic by nature, I inhabit an up help desire and straight forward outlook. I believe in constant learning and exploring new things; wish to travel the world and try every cuisine.
 </p>-->
 
+---
 
 ### My Digital Garden 🌱
 
 I'm currently a Machine Learning Researcher at IIT Indore under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I'm working on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). I am also planning to represent Govt. of India in *Inter-ASEAN comptetion* for *Face Detection System for Criminals* which I cleared through attaining the *first position in the World's Biggest Hackathon, i.e. Smart India Hackathon*. One of my research papers on *Recommendation Engine* is under review in the [Information Sciences](https://www.journals.elsevier.com/information-sciences) journal. Also in my free time, I like to write the blog posts,most of which you will find on my [medium](https://medium.com/@chaudhary.maheep28) account.
 
-I write about the research papers I find interesting of **Computer vision** and **Deep learning**. 
+---
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Tensorflow?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-brightgreen)
+![](https://img.shields.io/badge/Code-Tensorflow-blue)
+![](https://img.shields.io/badge/Code-Pytorch-blue)
+![](https://img.shields.io/badge/Code-numpy-green)
+![](https://img.shields.io/badge/Code-pandas-green)
+![](https://img.shields.io/badge/Website-django-red)
+![](https://img.shields.io/badge/Website-HTML-red)
+
+---
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -53,6 +51,7 @@ I write about the research papers I find interesting of **Computer vision** and 
 - [Neural Style Transfer](https://github.com/MaheepChaudhary/Neural-Style-Transfer)
 - [Covid-19_Alert_System](https://github.com/MaheepChaudhary/Covid-19_Alert_System)
 
+---
 <!--### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/maheep-chaudhary-07a03617a/) 👨💼
 - [Blog](https://medium.com/@chaudhary.maheep28) 🤓💻
