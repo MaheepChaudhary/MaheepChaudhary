@@ -4,11 +4,8 @@
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
-- [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
-- [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.stephenajulu.com/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
-- [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
+- [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection Research Paper Summary](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
+- [TEXTHERO:-Linking Pandas and Natural Language Processing(NLP) like never before.](https://medium.com/@chaudhary.maheep28/texthero-791f8c796ca9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
