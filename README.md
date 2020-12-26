@@ -31,7 +31,7 @@ I write about the research papers I find interesting of **Computer vision** and 
 
 ### 💼 Where i am currently working at/as
 - [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
-- Research Intern in at IIT Indore 💼 💻
+- Research Intern in at [IIT Indore](https://www.iiti.ac.in/) 💼 💻
 - Research Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 ### 💻 What i am currently/done working on
 - [Research paper implementation of Stand Alone self-Attention](https://arxiv.org/abs/1906.05909)  🚀 *coming very soon*
