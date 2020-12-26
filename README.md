@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## [![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)]
+## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
