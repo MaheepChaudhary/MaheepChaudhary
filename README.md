@@ -31,5 +31,8 @@
 - [Facebook](https://www.facebook.com/maheep.chaudhary/) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
 
+## Stargazers
+
+[![Stargazers repo roster for @MaheepChaudhary/MaheepChaudhary](https://reporoster.com/stars/MaheepChaudhary/MaheepChaudhary)](https://github.com/MaheepChaudhary/MaheepChaudhary/stargazers)
 
 ![MaheepChaudhary's github stats](https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&theme=radical)
