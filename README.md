@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## [![Maheep Chaudhary's header](https://raw.githubusercontent.com/MaheepChaudhary/<main>/<images>/1200px-HelloWorld.svg.png)]
+## [![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)]
 <!--
 
 
