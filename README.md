@@ -4,32 +4,24 @@
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+Just an ML enthusiast, in free time also like to write the blog posts,most of which you will find on my [medium](https://medium.com/@chaudhary.maheep28) account.
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I write about the research papers I find interesting of **Computer vision** and **Deep learning**. 
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection Research Paper Summary](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
 - [TEXTHERO:-Linking Pandas and Natural Language Processing(NLP) like never before.](https://medium.com/@chaudhary.maheep28/texthero-791f8c796ca9)
 <!-- BLOG-POST-LIST:END -->
-<!--
+
 ### 💼 Where i am currently working at/as
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
-- [Open World: Freelance](https://stephenajulu.com)
--->
-<!--
+- [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
+- Research Intern in at IIT Indore 💼 💻
+
 ### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
--->
+- [Research paper implementation of Stand Alone self-Attention](https://arxiv.org/abs/1906.05909)  🚀 *coming very soon*
+- [Neural Style Transfer](https://github.com/MaheepChaudhary/Neural-Style-Transfer)
+- [Covid-19_Alert_System](https://github.com/MaheepChaudhary/Covid-19_Alert_System)
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/maheep-chaudhary-07a03617a/) 👨💼
