@@ -30,6 +30,7 @@ I write about the research papers I find interesting of **Computer vision** and 
 - [Facebook](https://www.facebook.com/maheep.chaudhary/) 😏
 - [Twitter](https://twitter.com/stephenajulu) 🐤
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheepChaudhary&layout=compact)](https://github.com/MaheepChaudhary/github-readme-stats)
 ![MaheepChaudhary's github stats](https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&theme=radical)
 
 <!--
