@@ -19,7 +19,7 @@
 
 ### My Digital Garden 🌱
 
-I am a Machine Learning Researcher, pursuing the same in IIT Indore under [Dr. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) and also with [Dr. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ). One of my research papers on Recommendation Engine is under review in the [Information Sciences](https://www.journals.elsevier.com/information-sciences) journal. Also in my free time, I like to write the blog posts,most of which you will find on my [medium](https://medium.com/@chaudhary.maheep28) account.
+I'm currently a Machine Learning Researcher at IIT Indore under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) on optimizing the capability of intelligent systems like Alexa. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) on an optimized Search Engine(which a govt. funded research project). One of my research papers on Recommendation Engine is under review in the [Information Sciences](https://www.journals.elsevier.com/information-sciences) journal. Also in my free time, I like to write the blog posts,most of which you will find on my [medium](https://medium.com/@chaudhary.maheep28) account.
 
 I write about the research papers I find interesting of **Computer vision** and **Deep learning**. 
 
