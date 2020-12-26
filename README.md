@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/MaheepChaudhary/<main>/<images>/1200px-HelloWorld.svg.png "Header")]
+[![Header](https://raw.githubusercontent.com/MaheepChaudhary/<main>/<images>/1200px-HelloWorld.svg.png)]
 <!--
 
 
