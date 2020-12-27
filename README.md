@@ -1,6 +1,6 @@
 
 
-<!--## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)-->
+## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
