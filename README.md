@@ -69,6 +69,10 @@ I'm currently a Machine Learning Researcher at IIT Indore under the guidance of 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+<a href="https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Stand-Alone_Self-Attention&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/MaheepChaudhary/Covid-19_Alert_System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Covid-19_Alert_System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -77,6 +81,7 @@ I'm currently a Machine Learning Researcher at IIT Indore under the guidance of 
 <a href="https://github.com/MaheepChaudhary/Neural-Style-Transfer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Neural-Style-Transfer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+
 
 <!--
 ## Stargazers
