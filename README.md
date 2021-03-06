@@ -48,7 +48,7 @@ I'm currently a Machine Learning Researcher at IIT Indore under the guidance of 
 - Research Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 ### 💻 What i am currently/done working on
 - [Neural Turing Machines Implementation](https://arxiv.org/pdf/1410.5401.pdf)  🚀 *coming very soon*
-- [Research paper implementation of Stand Alone self-Attention](https://arxiv.org/abs/1906.05909) 
+- [Research paper implementation of Stand Alone self-Attention](https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention) 
 - [Neural Style Transfer](https://github.com/MaheepChaudhary/Neural-Style-Transfer)
 - [Covid-19_Alert_System](https://github.com/MaheepChaudhary/Covid-19_Alert_System)
 
