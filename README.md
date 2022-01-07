@@ -33,8 +33,8 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 ![](https://img.shields.io/badge/Code-Pytorch-blue)
 ![](https://img.shields.io/badge/Code-numpy-green)
 ![](https://img.shields.io/badge/Code-pandas-green)
+![](https://img.shields.io/badge/Scrapping-Selenium-black)
 ![](https://img.shields.io/badge/Website-django-red)
-![](https://img.shields.io/badge/Website-HTML-red)
 
 ---
 
