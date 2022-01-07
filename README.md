@@ -28,12 +28,11 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-brightgreen)
 ![](https://img.shields.io/badge/Code-Tensorflow-blue)
 ![](https://img.shields.io/badge/Code-Pytorch-blue)
 ![](https://img.shields.io/badge/Code-numpy-green)
 ![](https://img.shields.io/badge/Code-pandas-green)
-![](https://img.shields.io/badge/Scrapping-Selenium-black)
+![](https://img.shields.io/badge/Scrapping-Selenium-brightgreen)
 ![](https://img.shields.io/badge/Website-django-red)
 
 ---
