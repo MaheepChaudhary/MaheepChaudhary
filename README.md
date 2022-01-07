@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/maheepchaudhary/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>&nbsp;&nbsp;
 
 </p>
 <div align='center'>
