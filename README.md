@@ -3,10 +3,9 @@
 ## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
-<a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="https://www.instagram.com/maheepchaudhary/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;
 <a href="https://maheepchaudhary.github.io/maheep.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
-
+<a href="https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38"><img height="30" src="https://creativecommons.org/wp-content/uploads/2015/05/Medium-logo-dark500-300x300.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 <div align='center'>
  
@@ -36,8 +35,6 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 ![](https://img.shields.io/badge/Website-django-red)
 
 ---
-
-### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38), 
 
 
 ### 💼 Where i am currently working at/as
