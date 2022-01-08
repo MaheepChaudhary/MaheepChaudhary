@@ -5,7 +5,7 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 <a href="https://www.instagram.com/maheepchaudhary/"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"></a>&nbsp;&nbsp;
+<a href="https://maheepchaudhary.github.io/maheep.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
 
 </p>
 <div align='center'>
@@ -37,7 +37,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 ---
 
-### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38), [**Website**](https://maheepchaudhary.github.io/maheep.github.io/) 
+### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38), 
 
 
 ### 💼 Where i am currently working at/as
