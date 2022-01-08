@@ -37,18 +37,14 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 ---
 
-### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
+### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38), [**Website**](https://maheepchaudhary.github.io/maheep.github.io/) 
 
-### 📰 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection Research Paper Summary](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
-- [TEXTHERO:-Linking Pandas and Natural Language Processing(NLP) like never before.](https://medium.com/@chaudhary.maheep28/texthero-791f8c796ca9)
-<!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
 - [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 - Research Intern at [IIT Indore](https://www.iiti.ac.in/) 💼 💻
 - Research Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
+
 ### 💻 What i am currently/done working on
 - [Neural Turing Machines Implementation](https://arxiv.org/pdf/1410.5401.pdf)  🚀 *coming very soon*
 - [Research paper implementation of Stand Alone self-Attention](https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention) 
