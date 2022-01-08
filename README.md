@@ -4,7 +4,7 @@
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
 <a href="https://maheepchaudhary.github.io/maheep.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
-<a href="https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38"><img height="30" src="https://creativecommons.org/wp-content/uploads/2015/05/Medium-logo-dark500-300x300.png"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@chaudhary.maheep28"><img height="30" src="https://miro.medium.com/max/3150/1*6_fgYnisCa9V21mymySIvA.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 <div align='center'>
