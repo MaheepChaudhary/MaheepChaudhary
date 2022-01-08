@@ -37,7 +37,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 ---
 
-[**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
+### [**Blogs**](https://medium.com/analytics-vidhya/u2-net-going-deeper-with-nested-u-structure-for-salient-object-detection-research-paper-summary-e36911353b38)
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
