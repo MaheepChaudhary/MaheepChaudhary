@@ -38,15 +38,16 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 
 ### 💼 Where i am currently working at/as
-- [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
-- Research Intern at [IIT Indore](https://www.iiti.ac.in/) 💼 💻
-- Research Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
+- Research Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
+- Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
+- Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 💼 💻
+- Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
+- Student at [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 
 ### 💻 What i am currently/done working on
-- [Neural Turing Machines Implementation](https://arxiv.org/pdf/1410.5401.pdf)  🚀 *coming very soon*
-- [Research paper implementation of Stand Alone self-Attention](https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention) 
-- [Neural Style Transfer](https://github.com/MaheepChaudhary/Neural-Style-Transfer)
-- [Covid-19_Alert_System](https://github.com/MaheepChaudhary/Covid-19_Alert_System)
+- A package for Robust Training.  🚀 *coming very soon*
+- [When Causality meets Computer Vision](https://github.com/MaheepChaudhary/causation_in_computer_vision) 
+> Contains relevant research paper with their summary of Causlity in Computer Vision. Interested?? then do give a visit!!!
 
 ---
 <!--### 📫 Where to find me
