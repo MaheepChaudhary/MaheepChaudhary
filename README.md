@@ -68,7 +68,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 </a>
 
 <a href="https://github.com/MaheepChaudhary/causation_in_computer_vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Causation-in-Computer-Vision&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=causation_in_computer_vision&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention">
