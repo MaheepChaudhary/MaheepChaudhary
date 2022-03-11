@@ -45,7 +45,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 - Student at [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 
 ### 💻 What i am currently/done working on
-- A package for Robust Training.  🚀 *coming very soon*
+
 - [When Causality meets Computer Vision](https://github.com/MaheepChaudhary/causation_in_computer_vision) 
     > Contains relevant research paper with their summary of Causlity in Computer Vision. Interested?? then do give a visit!!!
 
