@@ -4,7 +4,7 @@
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
 <a href="https://maheepchaudhary.github.io/maheep.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ChaudharyMaheep"><img height="40" src="https://www.pngitem.com/pimgs/m/440-4401830_twitter-icon-png-small-transparent-png.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://p.kindpng.com/picc/s/412-4125052_twitter-logo-2017-png-transparent-png.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 <div align='center'>
@@ -38,7 +38,8 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 
 ### 💼 Where i am currently working at/as
-- Research Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 💼 💻
+- Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/) 💼 💻
+- Research Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
 - Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
 - Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 
 - Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
@@ -49,13 +50,16 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 - [When Causality meets Computer Vision](https://github.com/MaheepChaudhary/causation_in_computer_vision) 
     > Contains relevant research paper with their summary of Causlity in Computer Vision. Interested?? then do give a visit!!!
 
+### ✉️ Contact me:
+I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
+
 ---
 <!--### 📫 Where to find me
+- I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
+- [Twitter](https://twitter.com/stephenajulu) 🐤
 - [LinkedIn](https://www.linkedin.com/in/maheep-chaudhary-07a03617a/) 👨💼
 - [Blog](https://medium.com/@chaudhary.maheep28) 🤓💻
 - [Instagram](https://www.instagram.com/maheepchaudhary/) 😎
-- [Facebook](https://www.facebook.com/maheep.chaudhary/) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
 -->
 
 ## &#x1f4c8; Github Stats
