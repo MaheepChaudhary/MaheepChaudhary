@@ -48,7 +48,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 ### 💻 What i am currently/done working on
 
 - [When Causality meets Computer Vision](https://github.com/MaheepChaudhary/causation_in_computer_vision) 
-    > Contains relevant research paper with their summary of Causlity in Computer Vision. Interested?? then do give a visit!!!
+    > Contains summary of pertinent research articles on causality in computer vision.
 
 ### ✉️ Contact me:
 I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
