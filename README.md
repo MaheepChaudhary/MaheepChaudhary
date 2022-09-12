@@ -37,10 +37,11 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 ---
 
 
-### 💼 Where i am currently working at/as
+### 💼 Where i am/was working at/as
 - Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/) 💼 💻
-- Research Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
-- Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
+---
+- Researched Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
+- Worked as Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
 - Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 
 - Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 - Student at [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
