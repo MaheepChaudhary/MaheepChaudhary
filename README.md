@@ -19,11 +19,7 @@
 
 ## &#x270d; My Digital Garden 🌱
 
-I'm currently a Machine Learning Researcher, who is working under 
-<!---
-[President Eric P. Xing](https://www.cs.cmu.edu/~epxing/), MBZUAI, UAE and in close collaboration with 
--->
-[Prof. Haohan Wang](https://scholar.google.com/citations?user=nZxJGeUAAAAJ&hl=en), University of Illinois Urbana-Champaign where I am applying the awesome concepts of Causality in AI to make it more Robust. Additionally I have worked in [MIT Driverless](http://driverless.mit.edu/) where I worked as a Computer Vision Engineer. Previous to that I worked under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I worked on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). 
+I'm currently a Machine Learning Researcher, who is working under <!---[President Eric P. Xing](https://www.cs.cmu.edu/~epxing/), MBZUAI, UAE and in close collaboration with --> [Prof. Haohan Wang](https://scholar.google.com/citations?user=nZxJGeUAAAAJ&hl=en), University of Illinois Urbana-Champaign where I am applying the awesome concepts of Causality in AI to make it more Robust. Additionally I have worked in [MIT Driverless](http://driverless.mit.edu/) where I worked as a Computer Vision Engineer. Previous to that I worked under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I worked on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). 
 
 Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the team to make a system for *Underwater Fish Detection and Segmentation* to achieve Blue Economy. I also secured First rank in *first position in the World's Biggest Hackathon, i.e. Smart India Hackathon* where I build *Face Detection System for Criminals using Meta Learning*.
 
