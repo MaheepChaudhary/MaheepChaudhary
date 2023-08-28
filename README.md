@@ -39,7 +39,7 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 ### 💼 Where i am/was working at/as
 - Student at [Nanaynag Technological Unviersity](https://www.ntu.edu.sg/), Singapore. 💼 💻
-- Researcher in [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Jingkang Yang](https://jingkang50.github.io/). 
+- Researcher in [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Ziwei Liu](https://liuziwei7.github.io/) and [Jingkang Yang](https://jingkang50.github.io/). 
 - Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
 - ---
 - Worked as intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
