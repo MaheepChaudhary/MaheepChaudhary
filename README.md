@@ -19,8 +19,7 @@
 
 ## &#x270d; My Digital Garden 🌱
 
-I'm currently a Masters in Artificial Intelligence from Nanayang Technological University, Singaporer, who is working in [MMLab@NTU, Singapore](https://www.mmlab-ntu.com/index.html) and [Prof. Ong Yee Soon](https://www.ntu.edu.sg/scse/about-us/past-chairs/prof-ong-yew-soon) on pre-trained large models from a causal viewpoint. Prior to that I worked with --> [Prof. Haohan Wang](https://scholar.google.com/citations?user=nZxJGeUAAAAJ&hl=en), University of Illinois Urbana-Champaign where I completed a survey, titled [Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives
-](https://arxiv.org/abs/2307.16851); acting as one of the pioneer works in the field of trustworthiness. Additionally I have worked in [MIT Driverless](http://driverless.mit.edu/) where I worked as a Computer Vision Engineer. Previous to that I worked under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I worked on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). 
+I'm currently a Masters in Artificial Intelligence from Nanayang Technological University, Singapore, who is working in [MMLab@NTU, Singapore](https://www.mmlab-ntu.com/index.html), [Prof. Ong Yee Soon](https://www.ntu.edu.sg/scse/about-us/past-chairs/prof-ong-yew-soon), A* star, Singapore and [Prof. Haohan Wang](https://scholar.google.com/citations?user=nZxJGeUAAAAJ&hl=en), University of Illinois Urbana-Champaign on pre-trained large models from a causal viewpoint. Under the guidance of --> [Prof. Haohan Wang](https://scholar.google.com/citations?user=nZxJGeUAAAAJ&hl=en), UIUC, I completed a survey, titled [Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives](https://arxiv.org/abs/2307.16851); acting as one of the pioneer works in the field of trustworthiness. Additionally I have worked in [MIT Driverless](http://driverless.mit.edu/) where I worked as a Computer Vision Engineer. Previous to that I worked under the guidance of [Prof. Chandresh Kumar Maurya](https://scholar.google.com/citations?user=OR0yLJEAAAAJ&hl=en&oi=ao) where I worked on *optimizing the capability of intelligent systems like Alexa*. In addition to that I am also conducting research under [Prof. Mrityunjay Singh](https://scholar.google.com/citations?hl=en&user=5kG-VWMAAAAJ) where I am working on an *Optimized Search Engine*(which is a govt. funded research project). 
 
 Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the team to make a system for *Underwater Fish Detection and Segmentation* to achieve Blue Economy. I also secured First rank in *first position in the World's Biggest Hackathon, i.e. Smart India Hackathon* where I build *Face Detection System for Criminals using Meta Learning*.
 
@@ -39,13 +38,15 @@ Represented Govt. of India in *Inter-ASEAN comptetion 2021* where I lead the tea
 
 
 ### 💼 Where i am/was working at/as
-- Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/) 💼 💻
----
-- Researched Intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
+- Student at [Nanaynag Technological Unviersity](https://www.ntu.edu.sg/), Singapore. 💼 💻
+- Researcher in [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Jingkang Yang](https://jingkang50.github.io/). 
+- Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
+- ---
+- Worked as intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
 - Worked as Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
 - Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 
 - Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
-- Student at [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
+- Bachelors from [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 
 ### 💻 What i am currently/done working on
 
