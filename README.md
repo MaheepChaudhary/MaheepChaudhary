@@ -40,9 +40,10 @@
 
 ### 💼 Where i am/was working at/as
 - Student at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 💼 💻
-- Researcher in [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Ziwei Liu](https://liuziwei7.github.io/) and [Jingkang Yang](https://jingkang50.github.io/). 
+- Research Intern at [Stanford University, US](https://www.stanford.edu/).
 - Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
 - ---
+- Worked as intern at [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Ziwei Liu](https://liuziwei7.github.io/) and [Jingkang Yang](https://jingkang50.github.io/). 
 - Worked as intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
 - Worked as Computer Vision Engineer [MIT Driverless](http://driverless.mit.edu/)
 - Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 
