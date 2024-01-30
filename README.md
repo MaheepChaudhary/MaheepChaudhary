@@ -52,8 +52,8 @@
 
 ### 💻 What i am currently/done working on
 
-- [When Causality meets Computer Vision](https://github.com/MaheepChaudhary/causation_in_computer_vision) 
-    > Contains summary of pertinent research articles on causality in computer vision.
+- [Pyvene](https://github.com/MaheepChaudhary/pyvene-maheep) 
+    > Allows you to do intervention on the neurons seamlessly.
 
 ### ✉️ Contact me:
 I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
