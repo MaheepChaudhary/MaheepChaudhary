@@ -3,7 +3,7 @@
 ## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png)
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
-<a href="https://maheepchaudhary.github.io/maheep.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
+<a href="https://maheepchaudhary.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://p.kindpng.com/picc/s/412-4125052_twitter-logo-2017-png-transparent-png.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
