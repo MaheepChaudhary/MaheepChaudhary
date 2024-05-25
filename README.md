@@ -50,10 +50,6 @@
 - Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 - Bachelors from [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 
-### 💻 What i am currently/done working on
-
-- [Pyvene](https://github.com/MaheepChaudhary/pyvene-maheep) 
-    > Allows you to do intervention on the neurons seamlessly.
 
 ### ✉️ Contact me:
 I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
