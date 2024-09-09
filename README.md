@@ -39,7 +39,7 @@
 
 
 ### 💼 Where i am/was working at/as
-- 
+- Independent
 - ---
 - Research Intern at [Stanford University, US](https://www.stanford.edu/).
 - Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
