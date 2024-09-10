@@ -53,7 +53,7 @@
 
 
 ### ✉️ Contact me:
-I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
+I am best reached via email: maheepchaudhary (dot) research (AT) gmail (dot) com 
 
 ---
 <!--### 📫 Where to find me
