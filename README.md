@@ -77,6 +77,9 @@ I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 -->
+<a href="https://github.com/MaheepChaudhary/SAE-Ravel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=sae-ravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <a href="https://github.com/MaheepChaudhary/causation_in_computer_vision">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=causation_in_computer_vision&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -85,15 +88,6 @@ I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com
 
 <a href="https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Stand-Alone_Self-Attention&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/MaheepChaudhary/Covid-19_Alert_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Covid-19_Alert_System&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MaheepChaudhary/Neural-Style-Transfer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Neural-Style-Transfer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
