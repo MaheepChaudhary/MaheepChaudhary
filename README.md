@@ -78,7 +78,7 @@ I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com
 </a>
 -->
 <a href="https://github.com/MaheepChaudhary/SAE-Ravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=sae-ravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=SAE-Ravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/MaheepChaudhary/causation_in_computer_vision">
