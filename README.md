@@ -64,36 +64,7 @@ I am best reached via email: maheepchaudhary (dot) research (AT) gmail (dot) com
 - [Instagram](https://www.instagram.com/maheepchaudhary/) 😎
 -->
 
-## &#x1f4c8; Github Stats
 
-<!--
-<a href="https://github.com/MaheepChaudhary/MaheepChaudhary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheepChaudhary&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
--->
-
-<!--
-<a href="https://github.com/MaheepChaudhary/MaheepChaudhary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaheepChaudhary&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
--->
-<a href="https://github.com/MaheepChaudhary/SAE-Ravel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=SAE-Ravel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/MaheepChaudhary/causation_in_computer_vision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=causation_in_computer_vision&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/MaheepChaudhary/Transformer-from-Scratch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Transformer-from-Scratch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
-<a href="https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Stand-Alone_Self-Attention&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
-
- 
 
 
 <!--
