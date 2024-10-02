@@ -88,7 +88,11 @@ I am best reached via email: maheepchaudhary (dot) research (AT) gmail (dot) com
 
 <a href="https://github.com/MaheepChaudhary/Stand-Alone_Self-Attention">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Stand-Alone_Self-Attention&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>  
+
+<a href="https://github.com/MaheepChaudhary/Transformer-from-Scratch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaheepChaudhary&repo=Transformer-from-Scratch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
 
 
 <!--
