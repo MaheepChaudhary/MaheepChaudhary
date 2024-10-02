@@ -15,7 +15,7 @@
 <!--<p align="center">I am an independent researcher, and have just graduated in Masters in Artificial Intelligence from Nanayang Technological University, Singapore.
 </p>-->
 
----
+
 
 <!---
 ## &#x270d; My Digital Garden 🌱
