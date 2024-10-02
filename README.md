@@ -6,6 +6,7 @@
 <a href="https://maheepchaudhary.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ChaudharyMaheep"><img height="30" src="https://p.kindpng.com/picc/s/412-4125052_twitter-logo-2017-png-transparent-png.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/maheep-chaudhary-07a03617a/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+<a href="https://scholar.google.com/citations?user=zLUnjyUAAAAJ&hl=en&authuser=1"><img height = "32" src="https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png&color=000000"></a>
 </p>
 <div align='center'>
  
