@@ -33,8 +33,9 @@ I am
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tensorflow-blue)
 ![](https://img.shields.io/badge/Code-Pytorch-blue)
+![](https://img.shields.io/badge/Code-JAX-blue)
+![](https://img.shields.io/badge/Code-Tensorflow-blue)
 ![](https://img.shields.io/badge/Code-numpy-green)
 ![](https://img.shields.io/badge/Code-pandas-green)
 ![](https://img.shields.io/badge/Scrapping-Selenium-brightgreen)
