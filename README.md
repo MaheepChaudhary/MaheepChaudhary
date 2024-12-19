@@ -47,8 +47,9 @@ I am
 ### 💼 Where i am/was working at/as
 - Independent
 - ---
-- Research Intern at [Pr(AI)2R Group, Stanford University, US](https://prair.group/research).
-- Research Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
+- Research Intern at [University of Oxford](https://www.ox.ac.uk)
+- Worked Intern at [Pr(AI)2R Group, Stanford University, US](https://prair.group/research).
+- Worked Intern at [University of Illinois Urbana-Champaign, US](https://illinois.edu/).
 - Graduated from [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 💼 💻
 - Worked as intern at [MMLab@NTU](https://www.mmlab-ntu.com/index.html) under the guidance of [Ziwei Liu](https://liuziwei7.github.io/) and [Jingkang Yang](https://jingkang50.github.io/). 
 - Worked as intern at [Carnegie Mellon University, US](https://www.cmu.edu/) 
