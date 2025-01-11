@@ -43,7 +43,7 @@ I am
 
 ---
 
-
+<!---
 ### 💼 Where i am/was working at/as
 - Independent
 - ---
@@ -57,7 +57,7 @@ I am
 - Researched Intern at [IIT Indore](https://www.iiti.ac.in/) 
 - Researched Intern at [Jaypee University of Information Technology,Waknagha](https://www.juit.ac.in/)
 - Bachelors from [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
-
+-->
 
 ### ✉️ Contact me:
 I am best reached via email: maheepchaudhary (dot) research (AT) gmail (dot) com 
