@@ -1,6 +1,6 @@
 
 
-<!-- ## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png) -->
+<!-- ## ![Maheep Chaudhary's header](https://github.com/MaheepChaudhary/MaheepChaudhary/blob/main/images/1200px-HelloWorld.svg.png) 
 <h2 align="center">Hello there! My name is Maheep Chaudhary. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align='center'>
 <a href="https://maheepchaudhary.github.io/"><img height="30" src="https://avatars.githubusercontent.com/u/64949957?v=4"></a>&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 <a href="https://scholar.google.com/citations?user=zLUnjyUAAAAJ&hl=en&authuser=1"><img height = "32" src="https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png&color=000000"></a>
 </p>
 <div align='center'>
- 
+ -->
 
 </div>
 
@@ -29,9 +29,9 @@ I am
 <span style="font-size: 0.9em">Previously, I worked for 2 years under the guidance of <a href="https://scholar.google.com/citations?user=nZxJGeUAAAAJ&amp;hl=en" target="_blank">Mr. Haohan Wang</a>, Carnegie Mellon University, USA, where I wrote a survey on Trustworthiness in Machine Learning from Causal Perspective: <a href="https://arxiv.org/abs/2307.16851">Towards Trustworthy and Aligned Machine Learning: A Data-centric Survey with Causality Perspectives</a>. <em>You can access my latest work under preparation using this <a href="https://github.com/MaheepChaudhary/Causation-inComputerVision">link.</a></em>. Previously, I had worked with <a href="http://driverless.mit.edu/">MIT Driverless</a> on Self-Driving Car as Computer Vision Engineer and also participated in <a href="https://www.indyautonomouschallenge.com/">Indus Autonomous Challenge</a>. In addition to that I have also worked with <a href="https://scholar.google.co.in/citations?user=TBcGmiwAAAAJ&amp;hl=en">Dr. Shitala Prasad, A*star, Singapore</a> where I worked on Caption Generation using the MANN, which is currently being reviewed. Additionally, I have worked on <a href="https://arxiv.org/abs/2108.06206">Reminder Cum Recommendation System</a> under the guidance of <a href="https://scholar.google.co.in/citations?user=OR0yLJEAAAAJ&amp;hl=en" target="_blank">Prof. Chandresh Kumar Maurya</a>, IIT Indore which was successfully submitted to Cods-COMAD: ACM IKDD 2021. Besides that, I have also worked on the Recommendation Engine Research Project under <a href="https://scholar.google.co.in/citations?user=5kG-VWMAAAAJ&amp;hl=en">Prof. Mrityunjay Singh</a> (Funded by AICTE) in JUIT, Wagnakhat for one year and have submitted the paper in the Information Sciences journal. I have also been a <strong>winner</strong> in the <a href="https://www.sih.gov.in/">Smart India Hackathon</a>(World's Biggest Hackathon) solving the problem proposed by the <a href="https://bprd.nic.in/">Beaureau of Research and Development</a>(BPRD) regarding Facial Recognition. I have also been shortlisted by AICTE to represent India as <strong>Team Leader in ASEAN-India Hackathon</strong>, which was held between 11 ASEAN countries.
 -->
 
----
 
-## 🔧 Technologies & Tools
+
+<!-- --- ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Pytorch-blue)
 ![](https://img.shields.io/badge/Code-JAX-blue)
@@ -40,8 +40,9 @@ I am
 ![](https://img.shields.io/badge/Code-pandas-green)
 ![](https://img.shields.io/badge/Scrapping-Selenium-brightgreen)
 ![](https://img.shields.io/badge/Website-django-red)
-
 ---
+-->
+
 
 <!---
 ### 💼 Where i am/was working at/as
@@ -59,10 +60,10 @@ I am
 - Bachelors from [Bundelkhand of Institute of Engineering and Technology](http://bietjhs.ac.in/) 💼 
 -->
 
-### ✉️ Contact me:
+<!-- ### ✉️ Contact me:
 I am best reached via email: maheepchaudhary (dot) research (AT) gmail (dot) com 
+--- -->
 
----
 <!--### 📫 Where to find me
 - I am best reached via email: chaudhary (dot) maheep28 (AT) gmail (dot) com 
 - [Twitter](https://twitter.com/stephenajulu) 🐤
